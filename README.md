@@ -1,4 +1,3 @@
-# HousePricePrediction_XYlofy-AI
 # House Price Prediction Using Machine Learning
 
 ## Objective
