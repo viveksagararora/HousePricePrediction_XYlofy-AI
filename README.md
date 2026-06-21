@@ -21,5 +21,5 @@ Linear Regression achieved an R² score of 0.653 and outperformed the Random For
 ## Project Structure
 - analysis.ipynb
 - Housing.csv
-- summary.docx
+- summary.pdf
 - charts/
